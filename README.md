@@ -9,6 +9,8 @@
 
 ![A Labeled Chinese Dataset for Diabetes / 中文糖尿病标注数据集](https://tianchi.aliyun.com/dataset/dataDetail?spm=5176.12281978.0.0.75926bacsx0LyL&dataId=22288)
 
+![中文篇章级别数据集， 包含NER和RE](https://github.com/lancopku/Chinese-Literature-NER-RE-Dataset)
+
 # 代码
 ![T-REX](https://github.com/woohwanjung/T-REX)
 
