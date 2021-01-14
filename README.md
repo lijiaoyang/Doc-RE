@@ -7,6 +7,8 @@
 
 ![GDA](https://bitbucket.org/alexwuhkucs/gda-extraction/get/fd4a7409365e.zip)
 
+![A Labeled Chinese Dataset for Diabetes / 中文糖尿病标注数据集](https://tianchi.aliyun.com/dataset/dataDetail?spm=5176.12281978.0.0.75926bacsx0LyL&dataId=22288)
+
 # 代码
 ![T-REX](https://github.com/woohwanjung/T-REX)
 
