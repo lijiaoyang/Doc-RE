@@ -31,3 +31,5 @@
 ![edge-oriented-graph](https://github.com/fenchri/edge-oriented-graph)
 
 ![SSAN](https://github.com/BenfengXu/SSAN)
+
+![AAAI2021-MIUK-Relation-Extraction](https://github.com/pkuserc/AAAI2021-MIUK-Relation-Extraction)
