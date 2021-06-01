@@ -33,3 +33,5 @@
 ![SSAN](https://github.com/BenfengXu/SSAN)
 
 ![AAAI2021-MIUK-Relation-Extraction](https://github.com/pkuserc/AAAI2021-MIUK-Relation-Extraction)
+
+![IPR-DCGAT](https://github.com/zhanghongya0727/IPR-DCGAT)
