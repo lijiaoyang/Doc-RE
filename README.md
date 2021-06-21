@@ -20,6 +20,7 @@
 | ![Three-Sentences-Are-All-You-Need](https://arxiv.org/pdf/2106.01793)        | ![Three-Sentences-Are-All-You-Need](https://github.com/AndrewZhe/Three-Sentences-Are-All-You-Need) |  ACL 2021     |
 | ![SIRE](https://arxiv.org/pdf/2106.01709)        | ![SIRE](https://github.com/DreamInvoker/SIRE)                         | ACL-IJCNLP 2021     |
 |  ![Eider: Evidence-enhanced Document-level Relation Extraction](https://arxiv.org/pdf/2106.08657)       |                         |      |
+|  ![A Neural Edge-Editing Approach for Document-Level Relation Graph Extraction](https://arxiv.org/pdf/2106.09900)                                  | ![edge-editing](https://github.com/tti-coin/edge-editing.git) | ACL-IJCNLP 2021|
 
 -----
 
