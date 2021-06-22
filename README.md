@@ -2,7 +2,7 @@
 
 | paper | code |  Conference |
 | ------- | ------- | ------- |
-|         |     ![T-REX](https://github.com/woohwanjung/T-REX)    |       |
+| https://doi.org/10.1145/3340531.3412133       |     ![T-REX](https://github.com/woohwanjung/T-REX)    |       |
 |         |     ![DocRE-Rec](https://github.com/xwjim/DocRE-Rec)    |      |
 |         |     ![DSDocRE](https://github.com/thunlp/DSDocRE)    |      |
 |         |     ![GLRE](https://github.com/nju-websoft/GLRE)   |      |
